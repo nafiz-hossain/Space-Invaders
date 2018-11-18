@@ -5,13 +5,12 @@ Used Borland Graphics Interface (BGI) for the graphics along with C
 
 
 ## Image Gallery:
-![Image 1](https://github.com/nafiz-hossain/Space-Invaders/master/screenshot/Screenshot00.png)
-![Image 2](https://github.com/nafiz-hossain/Space-Invaders/master/screenshot/Screenshot01.png)
-![Image 3](https://github.com/nafiz-hossain/Space-Invaders/master/screenshot/Screenshot02.png)
-![Image 4](https://github.com/nafiz-hossain/Space-Invaders/master/screenshot/Screenshot03.png)
-![Image 5](https://github.com/nafiz-hossain/Space-Invaders/master/screenshot/Screenshot04.png)
-![Image 6](https://github.com/nafiz-hossain/Space-Invaders/master/screenshot/Screenshot05.png)
-
+![Image 1](https://github.com/nafiz-hossain/Space-Invaders/blob/master/screenshot/Screenshot00.png)
+![Image 2](https://github.com/nafiz-hossain/Space-Invaders/blob/master/screenshot/Screenshot01.png)
+![Image 3](https://github.com/nafiz-hossain/Space-Invaders/blob/master/screenshot/Screenshot02.png)
+![Image 4](https://github.com/nafiz-hossain/Space-Invaders/blob/master/screenshot/Screenshot03.png)
+![Image 5](https://github.com/nafiz-hossain/Space-Invaders/blob/master/screenshot/Screenshot04.png)
+![Image 6](https://github.com/nafiz-hossain/Space-Invaders/blob/master/screenshot/Screenshot05.png)
 
 ## About the Game
 
